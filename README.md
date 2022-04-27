@@ -1,5 +1,6 @@
 # markdown
 마크다운 정리
 
-## 기존 Markdown 언어와
-## HTML 태그 가 같이 사용 가능한거같다
+## 작동되는 문법
++ Markdown 문법
++ 원시 HTML 문법
